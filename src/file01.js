@@ -21,8 +21,8 @@ import {setTitle} from './functions.js';
  * Asigne a la variable local pageId (ID del elemento HTML donde se mostrará el título) con el valor: "title".
  * Referencia: https://javascript.info/variables
  */
-let pageTitle = "Datos comparativos de frameworks JavaScript modernos";
-let pageId = "title";
+const pageTitle = "Datos comparativos de frameworks JavaScript modernos";
+const pageId = "title";
 
 
 // TO-DO: Llama a la función setTitle para establecer el contenido del elemento HTML con el ID especificado
